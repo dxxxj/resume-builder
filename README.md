@@ -1,4 +1,5 @@
-Resume Builder
+**Resume Builder
+**
 Resume Builder is a simple React web application that allows users to create and customize their own resume. The application takes user input (such as personal details, education, and work experience) and dynamically generates a formatted resume that can be downloaded or printed.
 
 Features
