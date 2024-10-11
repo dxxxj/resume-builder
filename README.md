@@ -8,7 +8,9 @@ Responsive Design: The app is responsive and works well on both desktop and mobi
 Downloadable Resume: Users can download their resume as a PDF.
 
 Project Structure
+
 The project follows a basic React structure:
+
 resume-builder/
   ├── node_modules/
   ├── public/
