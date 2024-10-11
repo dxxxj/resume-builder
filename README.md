@@ -12,16 +12,34 @@ Project Structure
 The project follows a basic React structure:
 
 resume-builder/
+
+
   ├── node_modules/
+  
   ├── public/
+  
   ├── src/
+  
   │   ├── Components/
+  
   │   │   └── ResumeForm.js   # Main form component for user input
+  
   │   ├── App.css             # Global styles for the app
+  
   │   ├── App.js              # Main component containing the layout
+  
   │   ├── index.js            # App entry point
+  
   │   ├── styles.css          # Additional styles specific to form layout
+  
   │   └── reportWebVitals.js  # Performance monitoring
+  
   ├── .gitignore              # Files to ignore for Git
+  
   ├── package.json            # Project dependencies and scripts
+  
   ├── README.md               # Project documentation
+
+
+
+
